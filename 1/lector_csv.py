@@ -110,7 +110,7 @@ def menu():
                 print("Opción no válida. Por favor, elija una opción del menú.")
         except ValueError:
             print("Error, ingrese un número entero. Intente nuevamente.")
-        print("-" * 160) # Separador
+        print("-" * 160) 
 
 if __name__ == "__main__":
     menu()
