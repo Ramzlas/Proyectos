@@ -1,67 +1,67 @@
-DNI;Nombre;Apellido;Edad;Email;Fecha;Lugar
-40123456;Jose;Perez;27;jose@perez.com;23/10/1995;Santa Fe
-45123456;Mariana;Gomez;25;mariana@gomez.com;10/2/1998;Cordoba
-50123456;Gisela;Gimenez;23;gisela@gimenez.com;20/4/2000;Buenos Aires
-38123456;Javier;Gonzalez;29;javier@gonzalez.com;5/9/1993;Santa Fe
-38123456;Javier;Gonzalez;29;javier@gonzalez.com;5/9/1993;Santa Fe
-41123556;Juan;Dominguez;38;juan@dominguez.com;23/10/1985;Buenos Aires
-45129952;Luisa;Perez;26;luisa@perez.com;10/4/1998;Cordoba
-46345234;Paula;Gimenez;24;paula@gimenez.com;10/7/2000;Santa Fe
-35345123;Javier;Ramallo;34;javier@ramallo.com;25/7/1990;Corrientes
-49987654;Gonzalo;Munua;19;gonzalo@minua.com;12/11/2004;Cordoba
-60123456;Lucia;Rojas;31;lucia.rojas@example.com;15/3/1993;Jujuy
-61123457;Miguel;Lopez;42;miguel.lopez@example.com;8/5/1982;Neuquén
-62123458;Sofia;Alvarez;27;sofia.alvarez@example.com;12/6/1997;Tucumán
-63123459;Diego;Castro;36;diego.castro@example.com;20/8/1988;Chaco
-64123460;Carmen;Silva;29;carmen.silva@example.com;30/9/1995;Santa Cruz
-65123461;Nicolas;Cano;22;nicolas.cano@example.com;14/12/2001;Formosa
-66123462;Elena;Cruz;25;elena.cruz@example.com;18/1/1999;Río_Negro
-67123463;Antonio;Martinez;32;antonio.martinez@example.com;22/4/1992;Corrientes
-68123464;Valeria;Salazar;30;valeria.salazar@example.com;11/7/1994;San Juan
-69123465;Esteban;Fernandez;37;esteban.fernandez@example.com;5/10/1987;Buenos Aires
-70123466;Nicolás;Díaz;21;nicolas.diazz@example.com;24/2/2003;Buenos Aires
-44711042;Nicolás;Ramiro;21;ramironicolasdiazz@gmail.com;24/2/2003;Buenos Aires
-12345678;Laura;Aguilar;28;laura.aguilar@example.com;5/3/1995;Córdoba
-23456789;Pablo;Fernandez;30;pablo.fernandez@example.com;12/11/1993;Corrientes
-34567890;Isabella;Lopez;24;isabella.lopez@example.com;1/2/1999;Santa Fe
-45678901;Bruno;Morales;36;bruno.morales@example.com;23/4/1987;Buenos Aires
-56789012;Silvana;Rodriguez;27;silvana.rodriguez@example.com;18/8/1996;Salta
-67890123;Alejandro;Gutiérrez;32;alejandro.gutierrez@example.com;14/5/1991;Jujuy
-78901234;Carla;Reyes;29;carla.reyes@example.com;2/6/1994;Tucumán
-89012345;Facundo;Hernandez;26;facundo.hernandez@example.com;21/9/1997;Córdoba
-90123456;Liliana;Martinez;35;liliana.martinez@example.com;8/10/1988;Buenos Aires
-12345679;Diego;Ortega;30;diego.ortega@example.com;15/11/1993;Santa Fe
-23456780;Susana;Cabral;31;susana.cabral@example.com;3/12/1992;Cordoba
-34567891;Federico;Agüero;34;federico.aguero@example.com;6/2/1989;Corrientes
-45678902;Jazmin;Alvarez;22;jazmin.alvarez@example.com;10/6/2001;Jujuy
-56789013;Ricardo;Torres;39;ricardo.torres@example.com;7/4/1984;Buenos Aires
-67890124;Lucas;Corradi;25;lucas.corradi@example.com;16/1/1998;Santa Cruz
-78901235;Cecilia;González;26;cecilia.gonzalez@example.com;19/5/1997;Chaco
-89012346;Roberto;Quintero;40;roberto.quintero@example.com;21/10/1983;Formosa
-90123457;Mercedes;Bravo;33;mercedes.bravo@example.com;12/8/1990;Neuquén
-12345680;Ariana;Ponce;29;ariane.ponce@example.com;11/4/1994;Tucumán
-23456781;Ramiro;Castillo;21;ramiro.castillo@example.com;20/2/2002;Córdoba
-34567892;Julieta;Cruz;38;julieta.cruz@example.com;2/9/1985;Santa Fe
-45678903;Mauro;Delgado;27;mauro.delgado@example.com;28/3/1996;Corrientes
-56789014;Valentina;Menéndez;23;valentina.menendez@example.com;9/11/2000;Buenos Aires
-67890125;Marisol;Pichin;35;marisol.pichin@example.com;7/7/1988;Córdoba
-78901236;Liliana;Villalobos;31;liliana.villalobos@example.com;25/1/1992;Tucumán
-89012347;Esteban;Ayala;36;esteban.ayala@example.com;19/4/1987;Jujuy
-90123448;Claudia;Olguin;28;claudia.olguin@example.com;14/5/1995;Santa Cruz
-12345681;Cristian;Moya;24;cristian.moya@example.com;14/4/1999;Corrientes
-23456782;Gabriela;Corrales;33;gabriela.corrales@example.com;1/12/1990;Córdoba
-34567893;Brenda;Blanco;29;brenda.blanco@example.com;13/11/1994;Buenos Aires
-45678904;Marcos;Escobar;41;marcos.escobar@example.com;27/6/1982;Neuquén
-56789015;Estefanía;Acosta;26;estefania.acosta@example.com;18/3/1997;Tucumán
-67890126;Félix;Galván;25;felix.galvan@example.com;30/10/1998;Santa Fe
-78901237;Alina;Casanova;39;alina.casanova@example.com;6/2/1984;Corrientes
-89012348;Daniel;Arrieta;34;daniel.arrieta@example.com;15/1/1989;Córdoba
-90123449;Patricia;Salas;29;patricia.salas@example.com;11/12/1994;Buenos Aires
-12345682;Jose;Fernandez;22;jose.fernandez@example.com;10/5/2001;Santa Fe
-23456783;Mariana;Martinez;25;mariana.martinez@example.com;12/8/1998;Cordoba
-34567894;Gisela;Lopez;24;gisela.lopez@example.com;20/4/1999;Buenos Aires
-45678905;Javier;Ramos;29;javier.ramos@example.com;5/9/1992;Santa Fe
-56789016;Juan;Sanchez;38;juan.sanchez@example.com;23/10/1984;Buenos Aires
-67890127;Luisa;Gomez;26;luisa.gomez@example.com;10/4/1995;Cordoba
-78901238;Paula;Mendez;24;paula.mendez@example.com;10/7/1996;Santa Fe
-89012349;Carmen;Hernandez;30;carmen.hernandez@example.com;30/9/1990;Cordoba
+DNI,Nombre,Apellido,Edad,Email,Fecha,Lugar
+40123456,Jose,Perez,27,jose@perez.com,23/10/1995,Santa Fe
+45123456,Mariana,Gomez,25,mariana@gomez.com,10/2/1998,Cordoba
+50123456,Gisela,Gimenez,23,gisela@gimenez.com,20/4/2000,Buenos Aires
+38123456,Javier,Gonzalez,29,javier@gonzalez.com,5/9/1993,Santa Fe
+38123456,Javier,Gonzalez,29,javier@gonzalez.com,5/9/1993,Santa Fe
+41123556,Juan,Dominguez,38,juan@dominguez.com,23/10/1985,Buenos Aires
+45129952,Luisa,Perez,26,luisa@perez.com,10/4/1998,Cordoba
+46345234,Paula,Gimenez,24,paula@gimenez.com,10/7/2000,Santa Fe
+35345123,Javier,Ramallo,34,javier@ramallo.com,25/7/1990,Corrientes
+49987654,Gonzalo,Munua,19,gonzalo@minua.com,12/11/2004,Cordoba
+60123456,Lucia,Rojas,31,lucia.rojas@example.com,15/3/1993,Jujuy
+61123457,Miguel,Lopez,42,miguel.lopez@example.com,8/5/1982,Neuquén
+62123458,Sofia,Alvarez,27,sofia.alvarez@example.com,12/6/1997,Tucumán
+63123459,Diego,Castro,36,diego.castro@example.com,20/8/1988,Chaco
+64123460,Carmen,Silva,29,carmen.silva@example.com,30/9/1995,Santa Cruz
+65123461,Nicolas,Cano,22,nicolas.cano@example.com,14/12/2001,Formosa
+66123462,Elena,Cruz,25,elena.cruz@example.com,18/1/1999,Río_Negro
+67123463,Antonio,Martinez,32,antonio.martinez@example.com,22/4/1992,Corrientes
+68123464,Valeria,Salazar,30,valeria.salazar@example.com,11/7/1994,San Juan
+69123465,Esteban,Fernandez,37,esteban.fernandez@example.com,5/10/1987,Buenos Aires
+70123466,Nicolás,Díaz,21,nicolas.diazz@example.com,24/2/2003,Buenos Aires
+44711042,Nicolás,Ramiro,21,ramironicolasdiazz@gmail.com,24/2/2003,Buenos Aires
+12345678,Laura,Aguilar,28,laura.aguilar@example.com,5/3/1995,Córdoba
+23456789,Pablo,Fernandez,30,pablo.fernandez@example.com,12/11/1993,Corrientes
+34567890,Isabella,Lopez,24,isabella.lopez@example.com,1/2/1999,Santa Fe
+45678901,Bruno,Morales,36,bruno.morales@example.com,23/4/1987,Buenos Aires
+56789012,Silvana,Rodriguez,27,silvana.rodriguez@example.com,18/8/1996,Salta
+67890123,Alejandro,Gutiérrez,32,alejandro.gutierrez@example.com,14/5/1991,Jujuy
+78901234,Carla,Reyes,29,carla.reyes@example.com,2/6/1994,Tucumán
+89012345,Facundo,Hernandez,26,facundo.hernandez@example.com,21/9/1997,Córdoba
+90123456,Liliana,Martinez,35,liliana.martinez@example.com,8/10/1988,Buenos Aires
+12345679,Diego,Ortega,30,diego.ortega@example.com,15/11/1993,Santa Fe
+23456780,Susana,Cabral,31,susana.cabral@example.com,3/12/1992,Cordoba
+34567891,Federico,Agüero,34,federico.aguero@example.com,6/2/1989,Corrientes
+45678902,Jazmin,Alvarez,22,jazmin.alvarez@example.com,10/6/2001,Jujuy
+56789013,Ricardo,Torres,39,ricardo.torres@example.com,7/4/1984,Buenos Aires
+67890124,Lucas,Corradi,25,lucas.corradi@example.com,16/1/1998,Santa Cruz
+78901235,Cecilia,González,26,cecilia.gonzalez@example.com,19/5/1997,Chaco
+89012346,Roberto,Quintero,40,roberto.quintero@example.com,21/10/1983,Formosa
+90123457,Mercedes,Bravo,33,mercedes.bravo@example.com,12/8/1990,Neuquén
+12345680,Ariana,Ponce,29,ariane.ponce@example.com,11/4/1994,Tucumán
+23456781,Ramiro,Castillo,21,ramiro.castillo@example.com,20/2/2002,Córdoba
+34567892,Julieta,Cruz,38,julieta.cruz@example.com,2/9/1985,Santa Fe
+45678903,Mauro,Delgado,27,mauro.delgado@example.com,28/3/1996,Corrientes
+56789014,Valentina,Menéndez,23,valentina.menendez@example.com,9/11/2000,Buenos Aires
+67890125,Marisol,Pichin,35,marisol.pichin@example.com,7/7/1988,Córdoba
+78901236,Liliana,Villalobos,31,liliana.villalobos@example.com,25/1/1992,Tucumán
+89012347,Esteban,Ayala,36,esteban.ayala@example.com,19/4/1987,Jujuy
+90123448,Claudia,Olguin,28,claudia.olguin@example.com,14/5/1995,Santa Cruz
+12345681,Cristian,Moya,24,cristian.moya@example.com,14/4/1999,Corrientes
+23456782,Gabriela,Corrales,33,gabriela.corrales@example.com,1/12/1990,Córdoba
+34567893,Brenda,Blanco,29,brenda.blanco@example.com,13/11/1994,Buenos Aires
+45678904,Marcos,Escobar,41,marcos.escobar@example.com,27/6/1982,Neuquén
+56789015,Estefanía,Acosta,26,estefania.acosta@example.com,18/3/1997,Tucumán
+67890126,Félix,Galván,25,felix.galvan@example.com,30/10/1998,Santa Fe
+78901237,Alina,Casanova,39,alina.casanova@example.com,6/2/1984,Corrientes
+89012348,Daniel,Arrieta,34,daniel.arrieta@example.com,15/1/1989,Córdoba
+90123449,Patricia,Salas,29,patricia.salas@example.com,11/12/1994,Buenos Aires
+12345682,Jose,Fernandez,22,jose.fernandez@example.com,10/5/2001,Santa Fe
+23456783,Mariana,Martinez,25,mariana.martinez@example.com,12/8/1998,Cordoba
+34567894,Gisela,Lopez,24,gisela.lopez@example.com,20/4/1999,Buenos Aires
+45678905,Javier,Ramos,29,javier.ramos@example.com,5/9/1992,Santa Fe
+56789016,Juan,Sanchez,38,juan.sanchez@example.com,23/10/1984,Buenos Aires
+67890127,Luisa,Gomez,26,luisa.gomez@example.com,10/4/1995,Cordoba
+78901238,Paula,Mendez,24,paula.mendez@example.com,10/7/1996,Santa Fe
+89012349,Carmen,Hernandez,30,carmen.hernandez@example.com,30/9/1990,Cordoba
