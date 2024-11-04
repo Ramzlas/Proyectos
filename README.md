@@ -4,8 +4,8 @@
   <summary> Proyecto N1 </summary>
   <pre>
 - Carga datos desde un archivo CSV.
-- Muestra un menú por el cual permite la búsqueda de personas por nombre y filtrado de personas por rango de edad.
-  </pre>
+- Muestra un menú por el cual permite la búsqueda por nombre y filtrado por rango de edad.
+</pre>
 </details>
 
 <details>
