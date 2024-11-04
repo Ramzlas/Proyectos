@@ -14,7 +14,7 @@ class Persona:
 # Cargar los datos del archivo CSV
 def cargar_datos(archivo):
     try:
-        tabla = pd.read_csv(archivo, delimiter=";", encoding="utf-8")  # Leer el archivo CSV
+        tabla = pd.read_csv(archivo, delimiter=",", encoding="utf-8")  # Leer el archivo CSV
         # Limpiar espacios en las columnas
         tabla["Nombre"] = tabla["Nombre"].str.strip()  # Limpiar espacios en la columna de nombres
         tabla["Apellido"] = tabla["Apellido"].str.strip()  # Limpiar espacios en la columna de apellidos
