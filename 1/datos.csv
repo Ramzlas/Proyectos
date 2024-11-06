@@ -26,6 +26,7 @@ DNI,Nombre,Apellido,Edad,Email,Fecha,Lugar
 34567890,Isabella,Lopez,24,isabella.lopez@example.com,1/2/1999,Santa Fe
 45678901,Bruno,Morales,36,bruno.morales@example.com,23/4/1987,Buenos Aires
 56789012,Silvana,Rodriguez,27,silvana.rodriguez@example.com,18/8/1996,Salta
+21324404,Martin,Morales,19,martinmorales.soy@gmail.com, 15/2/2005
 67890123,Alejandro,Gutiérrez,32,alejandro.gutierrez@example.com,14/5/1991,Jujuy
 78901234,Carla,Reyes,29,carla.reyes@example.com,2/6/1994,Tucumán
 89012345,Facundo,Hernandez,26,facundo.hernandez@example.com,21/9/1997,Córdoba
