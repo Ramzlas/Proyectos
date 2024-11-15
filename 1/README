@@ -1,12 +1,12 @@
 Proyecto N1
-  
-## Descripción:
+
+Descripción:
 Este proyecto permite a los usuarios buscar por nombre y filtrar resultados según un rango de edad utilizando archivos CSV.
 
-### Características:
-**Carga de datos desde archivo CSV:** Carga y lee datos estructurados desde un archivo CSV.
-**Búsqueda y filtrado:** Los usuarios pueden buscar por nombre o filtrar según un rango de edad definido.
+Características:
+Carga de datos desde archivo CSV: Carga y lee datos estructurados desde un archivo CSV.
+Búsqueda y filtrado: Los usuarios pueden buscar por nombre o filtrar según un rango de edad definido.
 
-### Tecnologías utilizadas:
-**Lenguaje de programación:** Python
-**Librerías:** `pandas` 
+Tecnologías utilizadas:
+Lenguaje de programación: Python
+Librerías: pandas
