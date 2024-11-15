@@ -1,12 +1,7 @@
-Proyecto N1
+Utilización:
+Paso 1: Debe crear un .exe a partir del archivo python desde la terminal integrada.
+Paso 2: Ejecturar el .exe desde una carpeta con el mismo archivo csv que debe llamarse datos.
 
-Descripción:
-Este proyecto permite a los usuarios buscar por nombre y filtrar resultados según un rango de edad utilizando archivos CSV.
-
-Características:
-Carga de datos desde archivo CSV: Carga y lee datos estructurados desde un archivo CSV.
-Búsqueda y filtrado: Los usuarios pueden buscar por nombre o filtrar según un rango de edad definido.
-
-Tecnologías utilizadas:
-Lenguaje de programación: Python
-Librerías: pandas
+Importante: 
+NOTA 1: Acuerdese que es para un archivo excel delimitado por comas, sino debera cambiar el delimitador al adecuado en su archivo.
+NOTA 2: Los datos organizados por orden de primera columna a septima como: DNI,Nombre, Apellido, Edad,	Email, Fecha, Lugar.
