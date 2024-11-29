@@ -2,35 +2,35 @@ import pandas as pd
 
 # Clase para manejar la información de cada persona
 class Persona:
-    def __init__(propio, dni, nombre, apellido, edad, email, fecha, lugar):
-        propio.dni = dni  # DNI de la persona
-        propio.nombre = nombre.strip()  # Limpiar espacios en el nombre
-        propio.apellido = apellido.strip()  # Limpiar espacios en el apellido
-        propio.edad = edad  # Edad de la persona
-        propio.email = email.strip()  # Limpiar espacios en el email
-        propio.fecha = fecha  # Fecha asociada a la persona
-        propio.lugar = lugar.strip()  # Limpiar espacios en el lugar
+    def __init__(self, dni, nombre, apellido, edad, email, fecha, lugar):
+        self.dni = dni  
+        self.nombre = nombre.strip() 
+        self.apellido = apellido.strip()  
+        self.edad = edad 
+        self.email = email.strip()  
+        self.fecha = fecha  
+        self.lugar = lugar.strip()  
 
 # Cargar los datos del archivo CSV
 def cargar_datos(archivo):
     try:
         tabla = pd.read_csv(archivo, delimiter=",", encoding="utf-8")  # Leer el archivo CSV
         # Limpiar espacios en las columnas
-        tabla["Nombre"] = tabla["Nombre"].str.strip()  # Limpiar espacios en la columna de nombres
-        tabla["Apellido"] = tabla["Apellido"].str.strip()  # Limpiar espacios en la columna de apellidos
-        tabla["Email"] = tabla["Email"].str.strip()  # Limpiar espacios en la columna de emails
-        tabla["Lugar"] = tabla["Lugar"].str.strip()  # Limpiar espacios en la columna de lugares
+        tabla["Nombre"] = tabla["Nombre"].str.strip()  
+        tabla["Apellido"] = tabla["Apellido"].str.strip()  
+        tabla["Email"] = tabla["Email"].str.strip()  
+        tabla["Lugar"] = tabla["Lugar"].str.strip()  
         return tabla
     except FileNotFoundError:
-        print(f"El archivo {archivo} no se encontró.")  # Mensaje si el archivo no se encuentra
+        print(f"El archivo {archivo} no se encontró.")  
     except pd.errors.EmptyDataError:
-        print("El archivo está vacío o tiene un formato incorrecto.")  # Mensaje si el archivo está vacío
+        print("El archivo está vacío o tiene un formato incorrecto.")  
     return None
 
 # Mostrar los datos filtrados
 def mostrar_datos(resultados):
     print(f"{'DNI':<15} {'Nombre':<15} {'Apellido':<15} {'Edad':<5} {'Email':<50} {'Fecha':<15} {'Lugar':<15}")
-    print("-" * 160)  # Línea divisoria
+    print("-" * 160)  
     for index, row in resultados.iterrows():
         print(f"{row['DNI']:<15} {row['Nombre']:<15} {row['Apellido']:<15} {row['Edad']:<5} {row['Email']:<50} {row['Fecha']:<15} {row['Lugar']:<15}")
 
@@ -40,7 +40,7 @@ def buscar_por_nombre(tabla):
         nombre_buscar = input("Ingrese el nombre que desea buscar o presione [Enter] para finalizar: ")
         if nombre_buscar == "":
             break
-        nombre_buscar = nombre_buscar.lower().strip()  # Convertir a minúsculas y limpiar espacios
+        nombre_buscar = nombre_buscar.lower().strip()
 
         # Filtramos por nombre
         resultados = tabla[tabla["Nombre"].str.lower() == nombre_buscar]
@@ -84,7 +84,7 @@ def filtrar_por_rango_edades(tabla):
 
 # Menú principal
 def menu():
-    tabla = cargar_datos("datos.csv")  # Asegúrate de que este archivo tenga el delimitador correcto
+    tabla = cargar_datos("datos.csv")  
     if tabla is None:
         return
     
@@ -110,7 +110,8 @@ def menu():
                 print("Opción no válida. Por favor, elija una opción del menú.")
         except ValueError:
             print("Error, ingrese un número entero. Intente nuevamente.")
-        print("-" * 160) # Separador
+        print("-" * 160) 
 
 if __name__ == "__main__":
     menu()
+    
